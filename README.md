@@ -1,6 +1,6 @@
 # News Blog
 
-![](data.png)
+![](src/data.png)
 <br />
 
 ## ✨ Requirements
